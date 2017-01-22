@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textview" type="id" />
+    <item name="action1" type="id" />
+    <item name="action2" type="id" />
+    <item name="action3" type="id" />
+</resources>
